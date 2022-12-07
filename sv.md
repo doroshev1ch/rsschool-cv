@@ -1,2 +1,7 @@
-**Doroshevich Veronika**
-*Junior Frontend Developer*
+#**Doroshevich Veronika**
+##*Junior Frontend Developer*
+>И путь может быть целью
+*Contact info:
+*Phone: +375255168494
+*E-mail: doroshevich.2002@mail.ru
+
