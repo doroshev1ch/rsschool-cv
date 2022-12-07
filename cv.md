@@ -1,5 +1,4 @@
 # _**Doroshevich Veronika**_
-
 _Junior Frontend Developer_
 
 ***
