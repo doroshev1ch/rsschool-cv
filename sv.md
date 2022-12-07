@@ -1,6 +1,5 @@
 # **Doroshevich Veronika** 
 _Junior Frontend Developer_
-![photo] (/Users/macair/Desktop/rs-sсhool/rsschool-cv/000040.JPG)
 ***
 ## Contact info:
 * Phone: +375255168494
