@@ -1,5 +1,5 @@
-#**Doroshevich Veronika**
-##*Junior Frontend Developer*
+#**Doroshevich Veronika** 1
+##*Junior Frontend Developer* 2
 >И путь может быть целью
 *Contact info:
 *Phone: +375255168494
