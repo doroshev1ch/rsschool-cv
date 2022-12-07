@@ -22,7 +22,7 @@ I'm 20 years old, initially, I started my studies with mastering the profession 
 * Git
 * VS Code
 * Adobe Photoshop
- 
+
 ***
 
 **Courses:**
