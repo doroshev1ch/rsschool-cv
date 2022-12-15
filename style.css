@@ -4,6 +4,9 @@
     background-color: rgb(135, 167, 158);
     color: white;
   }
+  .linkbody{
+    color:white;
+  }
   .nav-list {
     display: flex;
     justify-content: flex-end;
