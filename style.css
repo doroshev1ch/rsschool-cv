@@ -149,46 +149,14 @@
     height: 70px;
     width: 150px;
   }
-  
-  
-  
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   @media (max-width: 768px) {
     .section {
       width: 100%;
     }
   }
-  
   @font-face {
     font-family: MADE Light EVO;
      src: url(../rsschool-cv/assets/fonts/MADE\ Evolve\ Sans\ Light\ EVO\ \(PERSONAL\ USE\).otf);
-   }
-   @font-face {
-    font-family: MADE Medium EVO;
-    src: url(../rsschool-cv/assets/fonts/MADE\ Evolve\ Sans\ Medium\ EVO\ \(PERSONAL\ USE\).otf);
    }
    @font-face {
     font-family: MADE light;
