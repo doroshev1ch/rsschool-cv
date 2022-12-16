@@ -7,11 +7,11 @@
   html {
     scroll-behavior: smooth; 
   }
-  body{
+  body {
     font-family: MADE Light;
     font-size: 25px;
   }
-  .link{
+  .link {
     color:white;
   }
   .nav-list {
@@ -20,7 +20,7 @@
     align-items: center;
     list-style: none;   
   }
-  .nav-link{
+  .nav-link {
     font-family: MADE Light;
     font-size: 25px;
     letter-spacing: 2px;
@@ -69,11 +69,11 @@
     margin-top: 10px;
     display: flex;
   }
-  .block-2{
+  .block-2 {
     display: flex;
     margin-top: 10px;
   }
-  .block-3{
+  .block-3 {
     display: flex;
     margin-top: 10px;
   }
