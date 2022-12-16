@@ -118,7 +118,7 @@
   }
   hr {
     margin-left: 40px;
-    position: relative;
+    display: flex;
     width: 50%;
     border-color:rgb(0, 0, 0);
   }
