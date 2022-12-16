@@ -7,6 +7,10 @@
   html {
     scroll-behavior: smooth; 
   }
+  body{
+    font-family: MADE Light;
+    font-size: 25px;
+  }
   .link{
     color:white;
   }
@@ -28,7 +32,7 @@
     color: rgb(0, 0, 0);
     text-decoration: underline;
   }
-  
+
   .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -60,36 +64,41 @@
   .main-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+  }
+  .block-1 {
+    margin-top: 10px;
+    display: flex;
+  }
+  .block-2{
+    display: flex;
+    margin-top: 10px;
+  }
+  .block-3{
+    display: flex;
+    margin-top: 10px;
   }
   .section {
-    width: 50%;
+    width: calc(50% - 20px);
     padding: 10px;
     padding-bottom: 35px;
   }
   .section-title {
-    margin-left: 40px;
     margin-top: 100px;
-    text-align: left;
-    font-family: MADE Light;
-    font-size: 30px;
+    text-align: center;
+    font-size: 35px;
+    font-family:  MADE Light EVO;
     
-  }
-  .section-list {
-    list-style: none;
-    text-align: left;
-    font-family: MADE Light;
-    font-size: 25px;
-
-  }
+  }  
   .section-item {
     display: flex;
     align-items: center;
-    font-family: MADE Light;
-    font-size: 25px;
+    line-height: 40px;
+    list-style: none;
+    text-align: justify;
+    
   }
   .icons {
-    margin-top: 10px;
+    padding: 10px;
     border: 0;
     border-radius: 0;
     cursor: pointer;
@@ -97,16 +106,23 @@
     display: flex;
     align-items: center;
   }
-  p {
-    margin-left: 45px;
-    font-family: MADE Light;
-    font-size: 25px;
-    text-align: justify;
-  }
-  #courses {
+  code {
+    width: 350px;
+    letter-spacing: 2px;
     display: flex;
-
+    align-items: center;
+    padding-left: 40px;
+    color: black;
+    border: solid rgba(231, 234, 224, 0.597);
+    border-radius: 50%;
+    background: rgba(231, 234, 224, 0.597);
+    
   }
+  hr {
+    width: 60%;
+    border-color:black;
+  }
+
   
   
   
